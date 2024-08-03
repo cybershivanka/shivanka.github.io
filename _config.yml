@@ -1,0 +1,37 @@
+# Site settings
+title: Shivanka Perera - Portfolio
+email: shivanka.perera@gmail.com
+description: >-  # Use ">" for multiline text
+    > Results-oriented and innovative Director of Software Engineering with over 18+ years of experience leading high-performance teams in the design, development, and implementation of cutting edge software solutions.
+    > Proven track record of aligning software engineering initiatives with business objectives, driving efﬁciency improvements, and spearheading the adoption of emerging technologies.
+    > Adept at strategic planning, project management, and fostering a collaborative and productive work environment.
+
+# Base URL (leave empty for root of your GitHub Pages domain)
+baseurl: "" 
+
+# This is the full URL of your portfolio (including protocol)
+url: "https://shivanka.github.io" 
+
+# Social media links (optional)
+# twitter_username: your_twitter_username
+linkedin_username: shivanka-perera-2836a124
+
+# Theme settings (if using a Jekyll theme)
+remote_theme: "mmistakes/minimal-mistakes@latest"  # Example minimal-mistakes theme
+
+# Markdown and Highlighting options
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional)
+# plugins:
+- jekyll-paginate  # Pagination for blog posts
+
+# Custom variables (optional)
+# profile_image: "profile.png"  # Path to your profile image
+
+# Collection (optional - for blog posts or projects)
+# collections:
+#   posts:
+#     output: true
+#     permalink: /:year/:month/:day/:title.html
